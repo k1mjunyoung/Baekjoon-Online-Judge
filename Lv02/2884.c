@@ -20,7 +20,7 @@ int main(void)
 	{
 		M -= 45;
 	}
-	else if(M > 45)
+	else if(M >= 45)
 	{
 		M -= 45;
 	}
